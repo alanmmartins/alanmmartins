@@ -3,7 +3,7 @@ Técnico eletrônico
 
 Na Área de **Automação Industrial**
 
--🌱Estudante do Senai realizando cursos desde à robotica a progamação 
+-🌱Estudante do Senai   
 
 -🌱Aluno do **CO.DE SCHOOL FGVW ACADEMIA DE PROGAMAÇÃO**
 
