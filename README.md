@@ -1,4 +1,4 @@
-### Oi meu nome e Alan 
+### Oi meu nome é Alan 
 Técnico eletrônico 
 
 Na Área de **Automação Industrial**
