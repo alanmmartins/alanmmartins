@@ -1,5 +1,5 @@
 ### Oi meu nome é Alan 
-estudante ,
+estudante de **Progamação Full Stack** ,
 Técnico eletrônico 
 
 Na Área de **Automação Industrial**
