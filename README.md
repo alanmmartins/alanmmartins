@@ -15,6 +15,7 @@ Na Área de **Automação Industrial**
 -🌱dedicado no momento em aprender python, react e kotlin
 
 -🌱Youtube: [alan youtube] https://www.youtube.com/channel/UCCsiAZo2IfUcfzQeg4LjiRQ 
+
  -🌱Youtube: [alan linkedin] https://www.linkedin.com/in/alanmmartins/ 
 
 -🌱Atualmente estudando:
