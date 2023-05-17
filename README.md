@@ -12,19 +12,21 @@ Na Área de **Automação Industrial**
 
 -🌱Gosto de fazer projetos com eletronica e progamação
 
--🌱dedicado no momento em aprender python, html, css, e javascript 
+-🌱dedicado no momento em aprender python, react e kotlin
 
--🌱Youtube: [alan youtube]( https://www.youtube.com/channel/UCCsiAZo2IfUcfzQeg4LjiRQ)
+-🌱Youtube: [alan youtube] https://www.youtube.com/channel/UCCsiAZo2IfUcfzQeg4LjiRQ 
+ -🌱Youtube: [alan linkedin] https://www.linkedin.com/in/alanmmartins/ 
 
 -🌱Atualmente estudando:
 <div display="inline>
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img width-'50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-
-
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+                                                                                                                      
+          
 <!--
 **alanmmartins/alanmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
