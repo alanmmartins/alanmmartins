@@ -1,21 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=120&section=header"/>
 
-
 <div align="center"> 
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Hello%2C+I'm+Alan+Munoz+Martins;I+live+in+Brazil+-+S%C3%A3o+Paulo;Full+Stack+Developer+Student+;Bachelor+of+Systems+Analysis+and+Development;Technician+in+electronics+in+laboratory+" alt="Typing SVG" /></a>
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Olá%2C+Sou+Alan+Munoz+Martins;Eu+Moro+No+Brazil+-+S%C3%A3o+Paulo;Técnico+Em+Eletrônica+Na+AUTservice;Estudante+De+Desenvolvimento+Full+Stack+e+Mobile;Graduado+em+Analise+e+Desenvolvimento+De+Sistemas" alt="Typing SVG" /></a>
+ <img  height="180" src="https://media.tenor.com/YRzeUmYfWrQAAAAd/jim2.gif"  />
 </div>
 
 <br>
+<br>
 
 <div align="center">
+ 
 <h2>Contador de visitas</h2> 
-  
-![Visitor Count](https://profile-counter.glitch.me/alanmmartins/count.svg)  
 
-  
+ ![Visitor Count](https://profile-counter.glitch.me/alanmmartins/count.svg)  
 </div>
+
 <br>
 
 
@@ -40,18 +39,22 @@
 
 <a href = "https://www.linkedin.com/in/alanmmartins/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alanmmartins&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
+<h2 align="center">
+   🏆 Meus Troféis 🏆
+</h2>
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=alanmmartins&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
 
 
 <div align="center">  
-<h2 align="centro">💻⚡Tech stack⚡💻:</h2>
+ <h2 align="centro">💻⚡Tech stack⚡💻:</h2>
 </div>
 
   
-<div display="inline>
+<div align="center"> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
@@ -68,8 +71,8 @@
 </div>
 
 <div align="center">
-<img width='200' height='200' src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" />
-<img width='200' height='200' src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" />
+<img width='220' height='200' src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" />
+<img width='220' height='200' src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" />
 <br>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/de092c48-0021-4fc8-8e36-2366cfd47dce/badges/2699561" target="blank">
