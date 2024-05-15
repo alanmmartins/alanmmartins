@@ -60,14 +60,15 @@
 
 <div align="center">  
  <h2 align="centro">💻⚡Tech stack⚡💻:</h2>
-
-
-  <p align="center"> 
-	<p align="center">
-  	<a href="#">
-   	 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,mysql,git" />
-  </a>
+  	<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,mysql,git" /></a>
   </div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanmmartins/alanmmartins/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanmmartins/alanmmartins/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alanmmartins/alanmmartins/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 
 <div align="center">  
 <h2>:trophy: Certificações</h2>
