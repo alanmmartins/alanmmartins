@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=120&section=header"/>
-
+<!--
 <div align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Oi%2C+Sou+Alan;" alt="Typing SVG" /></a>
  <img  height="180" src="https://media.tenor.com/YRzeUmYfWrQAAAAd/jim2.gif"  />
@@ -12,9 +12,9 @@
  <a href="https://beacons.ai/alanmartins" target="blank">
 <img width='90' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"" />
  
+     
           
-          
-</div>
+</div>      
  
 <div align="center">
 
@@ -86,5 +86,5 @@
 
 </div>
 <br>
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=120&section=footer"/>                                                       
