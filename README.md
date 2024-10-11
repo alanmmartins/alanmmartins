@@ -44,8 +44,9 @@
 -🌱Email: alanmunozmartins@gmail.com
 
 -🌱I like to do projects with electronics and programming
- 
-
+<!--
+ https://www.reddit.com/r/learnmachinelearning/comments/1fg00my/10_github_repositories_to_master_computer_vision/?tl=pt-br&rdt=61716
+-->
 
 <a href = "https://www.linkedin.com/in/alanmmartins/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
