@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=header"/>
 
-<div align="left"> 
+<div align="center"> 
  <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Oi%2C+Sou+Alan;" alt="Typing SVG" /></a>
+ <br>
  <img  height="180" src="https://media.tenor.com/YRzeUmYfWrQAAAAd/jim2.gif"  />
+ <img  height="180" src=https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif>
 </div>
 
 <br>
